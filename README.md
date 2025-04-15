@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**asokolowskii/asokolowskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adam Sokołowski**, a first-year Computer Science student at **AGH University of Krakow**.
 
-Here are some ideas to get you started:
+🎯 Passionate about:
+- 🧠 Artificial Intelligence & Data Science
+- 🧩 Algorithms & Problem Solving
+- 🖥️ System Programming & UNIX
+- 🔭 Computational Physics & Simulations
+- 🚀 Space Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since December 2024, I'm an active member of **AstroDevelopers**, a scientific student group at the **AGH Space Technology Center**, where I participate in projects combining software development and space research.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:**  
+  `Python` | `C` | `HTML` | `CSS` | `JavaScript` (basic) | `React` (beginner)
+- **Tools:**  
+  Git | GitHub | Linux | Bash | VS Code | Jupyter Notebooks
+
+---
+
+## 🌍 Languages
+
+- **English** – C1 (CAE Certificate)  
+- **German** – A1  
+- **French** – A1  
+
+---
+
+## 🚀 Projects (coming soon)
+
+- 📘 Intro to Programming (C)
+- 📚 Algorithms and Data Structures
+- 🐧 UNIX Fundamentals
+- 🧪 Python & Data Science Labs
+- 🛰️ AstroDev Projects @ AGH Space Tech Center
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asokolowskii&show_icons=true&theme=default)
+
