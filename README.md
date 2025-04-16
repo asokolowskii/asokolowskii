@@ -23,7 +23,7 @@ Since December 2024, I'm an active member of **AstroDevelopers**, a scientific s
 ---
 
 ## 🌍 Languages
-
+- **Polish** - Native
 - **English** – C1 (CAE Certificate)  
 - **German** – A1  
 - **French** – A1  
